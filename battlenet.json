@@ -19,7 +19,7 @@
 <br>- Filelinked code: 30837432</br>
 <br>- FireDL code: 639607</br>
 <br></br>
-<br><b>Change logs</b></br>
+<br><b>Change XXXlogs</b></br>
 <br>- Add more link providers.</br>
 <br>- Fix focus on Amazon Fire TV.</br>",  
 "update_build":"49",  
@@ -49,8 +49,8 @@
 "ogury_enable":false,
 "enable_pokkt":false,
 "enable_admob":true,
-"adoech_banner":"/21617015150/50632918/21816587066",
-"adoech_full":"/21617015150/50632918/21816586997",
+"adoech_banner":"",
+"adoech_full":"",
 "adoech_enable":false,
 "ogr_key":"OGY-2EE43D260DB3",
 "openload_domain":"https://openload.co",
