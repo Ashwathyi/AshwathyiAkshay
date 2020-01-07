@@ -10,7 +10,7 @@
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
 "update_isapk":true,  
-"update_title":"Update new version",  
+"update_title":"Update new vexxxxrsion",  
 "update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
@@ -29,18 +29,18 @@
 "pkg_uninstall":"me.beetv.movieguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "http_config":"https",
-"gg_analytics_key":"UA-130029478-6",  
-"tmdb_key":"8e8a0ef4974dbc61df35cbde890f7dd5",
-"ads_priority":"amazon",
+"gg_analytics_key":"UA-1300xxx00029478-6",  
+"tmdb_key":"8e8a0ef4974dbc610000000df35cbde890f7dd5",
+"ads_priority":"xxxxnxxx",
 "text_link":"",
 "text_content":"Thanks for using BeeTV",
 "text_title":"Hi",
 "text_type":"hide",
 "text_id":"475557",
 "enable_cms":"0",
-"enable_install_player":true,
+"enable_install_player":false,
 "title_player":"One Player",
-"description_player":"Best pcclayer to work with BeeTV. Less ads and better streaming!",
+"description_player":"Best xxxxpcclayer to work with BeeTV. Less ads and better streaming!",
 "link_download_player":"https://dl.dropboxusercontent.com/s/102vvzslejevxl3/BeeTV_v2.3.6.apk",
 "package_name_player":"com.one.player",
 "enable_amz":true,
@@ -49,10 +49,10 @@
 "ogury_enable":false,
 "enable_pokkt":false,
 "enable_admob":false,
-"adoech_banner":"/21617015150/50632918/21816587066",
-"adoech_full":"/21617015150/50632918/21816586997",
+"adoech_banner":"/21617015150/506xxxx32918/21816587066",
+"adoech_full":"/21617015150/5063291cxxxx8/21816586997",
 "adoech_enable":false,
-"ogr_key":"OGY-2EE43D260DB3",
+"ogr_key":"OGY-2EE43Dxx260DB3",
 "openload_domain":"https://openload.co",
 "is_banner_auto":false,
 "banner_photo":"",
@@ -60,5 +60,5 @@
 "banner_text":"",
 "priorirty_custom_ads":false,
 "site_cookie":"https://pornhub.com, https://xvideos2.com, https://pornhdvideos.net, https://www.xnxx.com, https://http://www.youporn.com/, http://www.pornhd.com/, https://xnxxhamster.net/",
-"collection":"eyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyNTk0OCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSA1MCBIaWdoZXN0LUdyb3NzaW5nIE1vdmllcyBPZiBBbGwgVGltZSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI5MjcsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICIyMDE5IE1vdmllcyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI5MjYsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICIyMDE5IFNlYXNvbnMiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogOTI1ODgsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJXV0UgJiBVRkMgUFBWIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDc1NywgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk5ldGZsaXggU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwNzU5LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiSEJPIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgxMiwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkNXIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDc2MCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkFtYXpvbiBTaG93cyIgfSx7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgxOCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkJCQyBPbmUgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwODIwLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiRlggU2hvd3MiIH1dIH0="
+"collection":"xxxeyJpbmZvIjogWyB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyNTk0OCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIlRoZSA1MCBIaWdoZXN0LUdyb3NzaW5nIE1vdmllcyBPZiBBbGwgVGltZSIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI5MjcsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICIyMDE5IE1vdmllcyIgfSwgeyAiaWQiOiAiIiwgImxpc3RfaWQiOiAxMjI5MjYsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICIyMDE5IFNlYXNvbnMiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogOTI1ODgsICJ0eXBlIjogInRoZW1vdmllZGIiLCAibmFtZSI6ICJXV0UgJiBVRkMgUFBWIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDc1NywgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIk5ldGZsaXggU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwNzU5LCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiSEJPIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgxMiwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkNXIFNob3dzIiB9LCB7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDc2MCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkFtYXpvbiBTaG93cyIgfSx7ICJpZCI6ICIiLCAibGlzdF9pZCI6IDEyMDgxOCwgInR5cGUiOiAidGhlbW92aWVkYiIsICJuYW1lIjogIkJCQyBPbmUgU2hvd3MiIH0sIHsgImlkIjogIiIsICJsaXN0X2lkIjogMTIwODIwLCAidHlwZSI6ICJ0aGVtb3ZpZWRiIiwgIm5hbWUiOiAiRlggU2hvd3MiIH1dIH0="
 }
